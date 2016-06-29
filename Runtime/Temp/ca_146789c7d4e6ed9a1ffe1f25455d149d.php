@@ -1,0 +1,3 @@
+<?php
+//000000003600a:12:{s:6:"userid";i:1073;s:8:"username";s:6:"pp1073";s:8:"upaperid";i:191;s:10:"papertitle";s:46:"2009年国家《行测》真题 - 试卷刷题";s:9:"sessionid";s:26:"n0emelg3s44e0drkoqk665asr5";s:11:"sessiondata";s:54:"a:2:{s:6:"userid";i:1073;s:8:"username";s:6:"pp1073";}";s:9:"qrcodeurl";s:37:"e72bc7ea2200066b13b25977e6b8921b1.png";s:4:"salt";i:5752;s:7:"addtime";i:1466514354;s:4:"nums";i:1;s:7:"pageurl";s:70:"s:62:"http://tiku.csustt.cn/index.php/Paper/Answer/index?paperid=191";";s:6:"dataid";i:54;}
+?>
